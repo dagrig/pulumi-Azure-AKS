@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.pyc
+*~
+
+# Pulumi
+.pulumi/
+pulumi.yaml
+pulumi.stack.yaml
